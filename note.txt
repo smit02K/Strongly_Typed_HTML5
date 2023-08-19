@@ -1,0 +1,27 @@
+font-family: 'Arvo', serif;
+font-family: 'Source Sans 3', sans-serif;
+
+w:1180
+h:12
+
+
+window size=1515
+used=1185 78.217% of window
+side space=330 21.78% window
+div1=775  65.4008% of used
+div2=375   31.6%   of used
+space div1__div2=35
+
+div1 || div2
+
+
+<form>
+  <div class="form-row">
+    <div class="col">
+      <input type="text" class="form-control" placeholder="First name">
+    </div>
+    <div class="col">
+      <input type="text" class="form-control" placeholder="Last name">
+    </div>
+  </div>
+</form>
