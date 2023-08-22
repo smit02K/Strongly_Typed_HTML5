@@ -1,4 +1,4 @@
-# smit02K-Strongly-Typed-by-HTML5-UP
+# Strongly-Typed-by-HTML5-UP
 
 Strongly Typed Web Project by Smit Kalathiya
 
